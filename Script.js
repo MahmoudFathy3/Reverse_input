@@ -13,4 +13,4 @@ temp = temp.toString().replace(/,/g,"");
 return temp;
 }
 
-console.log(reverseInput(input));
+alert(reverseInput(input));
